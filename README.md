@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Agustin Dalton</h1>
-<h3 align="left">A Finance Analyst passionate about Data Analytics/Science. I'm currently working with Python/SQL/PowerBi/Excel creating cool data driven projects.</h3>
+<h4 align="left">A Finance Analyst passionate about Data Analytics/Science. I'm currently working with Python/SQL/PowerBi/Excel creating cool data driven projects.</h4>
 
 - 🌱 I’m currently learning Python/SQL **Pandas, Numpy, Matplotlib, Seaborn**
 
